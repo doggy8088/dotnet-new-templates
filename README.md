@@ -12,9 +12,6 @@ Blazor Server App                                 blazorserver             C#   
 ASP.NET Core Empty                                web                      C#            Web/Empty
 ASP.NET Core Web App (Model-View-Controller)      mvc                      C#            Web/MVC
 ASP.NET Core Web App                              webapp                   C#            Web/MVC/Razor Pages
-ASP.NET Core with Aurelia                         aurelia                  C#            Web/MVC/SPA
-ASP.NET Core with Knockout.js                     knockout                 C#            Web/MVC/SPA
-ASP.NET Core with Vue.js                          vue                      C#            Web/MVC/SPA
 ASP.NET Core with Angular                         angular                  C#            Web/MVC/SPA
 ASP.NET Core with React.js                        react                    C#            Web/MVC/SPA
 ASP.NET Core with React.js and Redux              reactredux               C#            Web/MVC/SPA
@@ -29,9 +26,6 @@ dotnet new blazorserver -n blazorserver
 dotnet new web -n web
 dotnet new mvc -n mvc
 dotnet new webapp -n webapp
-dotnet new aurelia -n aurelia
-dotnet new knockout -n knockout
-dotnet new vue -n vue
 dotnet new angular -n angular
 dotnet new react -n react
 dotnet new reactredux -n reactredux
